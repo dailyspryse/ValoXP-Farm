@@ -13,7 +13,7 @@
 
 
 
-  # Valo XP Fam
+  # Valo XP Farm
 
   A tool that farm ur XP on Valorant if u not currently playing or lazy like me.
   
