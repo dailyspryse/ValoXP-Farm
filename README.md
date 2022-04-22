@@ -64,7 +64,7 @@
 <!-- 
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">  -->
-  <a href="https://github.com/staciax">
+  <a href="https://github.com/dailyspryse">
     <img src="https://komarev.com/ghpvc/?username=dailyspryse">
 </a>
 <a href="https://github.com/dailyspryse?tab=followers"><img src="https://img.shields.io/github/followers/dailyspryse?label=Followers&style=social" alt="GitHub Badge"></a>
